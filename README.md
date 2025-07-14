@@ -1,2 +1,2 @@
 # webinar8
-Учимся работать с git
+Start working with git
