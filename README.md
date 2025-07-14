@@ -7,5 +7,7 @@ add new string.
 
 Blue branch
 
+Add yellow string
+
 Red branch from blue
 another red string
