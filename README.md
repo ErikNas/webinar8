@@ -6,3 +6,5 @@ add new string.
 123
 
 Blue branch
+
+Red branch from blue
